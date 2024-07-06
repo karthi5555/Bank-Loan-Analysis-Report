@@ -19,7 +19,25 @@ In the initial phase i performed the following tasks:
 
 ### Exploratory Data Analysis 
 This method involved in solving the KPI's in bank loan analysis that is listed in the problem statement document.
-[KPI's or Problem Statement](https://docs.google.com/document/d/1xaaMDTh_rGbfhaAJehK_gG4ko6nu0d_E/edit?usp=sharing&ouid=104132765935785362296&rtpof=true&sd=true)
+View Here - [KPI's or Problem Statement](https://docs.google.com/document/d/1xaaMDTh_rGbfhaAJehK_gG4ko6nu0d_E/edit?usp=sharing&ouid=104132765935785362296&rtpof=true&sd=true)
+
+### Screenshots of the Dashboards
+  #### Review Dashboard
+
+
+   ![Screenshot 2024-07-06 073803](https://github.com/karthi5555/Bank-Loan-Analysis-Report/assets/105117281/b1526a80-4c9b-4eee-baff-9bca5d863279)
+
+  #### Overview Dashboard
+
+
+  ![Screenshot 2024-07-06 073835](https://github.com/karthi5555/Bank-Loan-Analysis-Report/assets/105117281/5400fe07-7102-43bd-af81-420f7842bbf0)
+
+  #### Detailed View
+
+
+  ![Screenshot 2024-07-06 073705](https://github.com/karthi5555/Bank-Loan-Analysis-Report/assets/105117281/e0d4b729-0b04-4b2d-86f3-fb896c623f2b)
+
+
 
 
 
