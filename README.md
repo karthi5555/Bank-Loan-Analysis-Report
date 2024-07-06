@@ -19,7 +19,7 @@ In the initial phase i performed the following tasks:
 
 ### Exploratory Data Analysis 
 This method involved in solving the KPI's in bank loan analysis that is listed in the problem statement document.
-[KPI's or Problem Statement]{
+[KPI's or Problem Statement](https://docs.google.com/document/d/1xaaMDTh_rGbfhaAJehK_gG4ko6nu0d_E/edit?usp=sharing&ouid=104132765935785362296&rtpof=true&sd=true)
 
 
 
